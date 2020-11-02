@@ -1,4 +1,4 @@
-# Shadow Softworks
+# Shadow 3.0
 
 Shadow is the greatest **free** scripting utility for Roblox.
 
