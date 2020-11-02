@@ -25,4 +25,9 @@ We could add more to the list above, those are all of our plans for future updat
 
 We would like to thank the following users for utilizing their time and effort to bring Shadow where it is today, it wouldn't be the same without any of these awesome individuals.
 
-- Reversed for developing Shadow to bring out the greatest free scripting utility available for Roblox.
+- **Reversed** for developing Shadow to bring out the greatest free scripting utility available for Roblox.
+- **CompiledCode** for giving great pointers on various execution methods and assisting with the bytecode interpreter method.
+- **Eljack** for designing all of the outstanding icon, logos, borders and anything that has to do with a project developed by our team.
+- **Ringarang** for being a wonderful assistance to the development and well-being of Shadow.
+- **Trollicus** for securing Shadow to the best of his ability to make reverse engineering a much more difficult situation.
+- **Laxion** for developing that awesome interface we can call Shadow, it looks outstanding and we're thankful for Laxion's work.
