@@ -26,4 +26,5 @@ We could add more to the list above, those are all of our plans for future updat
 We would like to thank the following users for utilizing their time and effort to bring Shadow where it is today, it wouldn't be the same without any of these awesome individuals.
 
 - Reversed
+
 Developing Shadow to bring out the greatest free scripting utility available for Roblox.
