@@ -8,7 +8,7 @@ Download the official build of Shadow from the [Shadow Cheats](https://www.shado
 
 ## Usage
 
-You must the latest version of [Roblox](http://www.roblox.com/Install/Setup.ashx) installed on your system. Afterwards, you can join any game and press "Attach" on Shadow. It may ask you to enter a key, you can access the key directly through typing "getkey" in the console popup. :ok_hand:
+You must have the latest version of [Roblox](http://www.roblox.com/Install/Setup.ashx) installed on your system. Afterwards, you can join any game and press "Attach" on Shadow. It may ask you to enter a key, you can access the key directly through typing "getkey" in the console popup. :ok_hand:
 
 ## Plans
 
