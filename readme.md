@@ -1,6 +1,6 @@
 # Shadow 3.0
 
-Shadow is the greatest **free** scripting utility for Roblox.
+Shadow is one of the greatest **free** scripting utilities for Roblox.
 
 ## Installation
 
