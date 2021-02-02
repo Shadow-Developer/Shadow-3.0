@@ -18,7 +18,7 @@ We've implemented some great features throughout updates on Shadow, however ther
 - [x] Uncommon functions such as "setfflag", "sethiddenproperty", "gethiddenproperty" and "getconnections" are implemented.
 - [x] Internal interface for those playing in games where an internal interface is more convenient.
 - [x] Re-attaching automatically whenever teleporting to a new place.
-- [ ] Reaching out to script developers for Shadow 3.0 support on their paid scripts.
+- [x] Reaching out to script developers for Shadow 3.0 support on their paid scripts.
 
 We could add more to the list above, those are all of our plans for future updates. You should be seeing these coming in future updates, so be prepared for these flawless plans in the task log.
 
