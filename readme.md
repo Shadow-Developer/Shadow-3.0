@@ -14,11 +14,10 @@ You must have the latest version of [Roblox](http://www.roblox.com/Install/Setup
 
 We've implemented some great features throughout updates on Shadow, however there are still some improvements to be made. This is why we have decided to add a task log that shows our plans and once those plans have been deployed.
 
-- [x] Bit, Console, Debug, Drawing, Mouse and Cryptography Libraries.
-- [x] Uncommon functions such as "setfflag", "sethiddenproperty", "gethiddenproperty" and "getconnections" are implemented.
+- [x] Bit, Bistream, Cache, Crypt, Console, Debug, Drawing and Websocket Libraries.
+- [x] Uncommon functions such as "firetouchinterest", "sethiddenproperty", "gethiddenproperty" and "getconnections" are implemented.
 - [x] Internal interface for those playing in games where an internal interface is more convenient.
 - [x] Re-attaching automatically whenever teleporting to a new place.
-- [x] Reaching out to script developers for Shadow 3.0 support on their paid scripts.
 
 We could add more to the list above, those are all of our plans for future updates. You should be seeing these coming in future updates, so be prepared for these flawless plans in the task log.
 
